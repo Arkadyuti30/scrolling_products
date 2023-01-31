@@ -7,6 +7,15 @@
   pointer-events: none;
 }
 
+
+.items-card {
+  margin: 0 auto;
+  width: 50%;
+  height: 20vh;
+  overflow-y: scroll;
+  border: 1px solid #000;
+
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
